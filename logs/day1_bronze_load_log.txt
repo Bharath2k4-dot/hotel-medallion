@@ -1,0 +1,12 @@
+Hotel Booking & Revenue Management
+Day 1 – Bronze Load
+
+Tables Loaded:
+- hotels_raw
+- room_types_raw
+- bookings_raw (~72,450 rows)
+- payments_raw
+- room_inventory_raw
+
+Source: Google Sheets (Apps Script generated)
+Load Method: Python (pandas → PostgreSQL)
