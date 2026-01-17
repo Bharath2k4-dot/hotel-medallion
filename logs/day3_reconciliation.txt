@@ -1,0 +1,10 @@
+    check_name     | silver_value  |  gold_value   | diff 
+-------------------+---------------+---------------+------
+ confirmed_revenue | 1443380357.00 | 1443380357.00 | 0.00
+(1 row)
+
+   check_name   | silver_value | gold_value | diff 
+----------------+--------------+------------+------
+ total_bookings |        72450 |      72450 |    0
+(1 row)
+
